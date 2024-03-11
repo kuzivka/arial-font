@@ -1,6 +1,12 @@
-@font-face {
-  font-family: 'Arial V1 Bold';
-  src: url("https://kuzivka.github.io/ArialBold.ttf");
-  font-style: normal;
-  font-display:swap;
+@font-face{
+    font-family: "Arial W02 Bold";
+    src: url("https://db.onlinewebfonts.com/t/92dd3953e4b9542bc7a4f2b767b2c87f.eot");
+    src: url("https://db.onlinewebfonts.com/t/92dd3953e4b9542bc7a4f2b767b2c87f.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/92dd3953e4b9542bc7a4f2b767b2c87f.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/92dd3953e4b9542bc7a4f2b767b2c87f.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/92dd3953e4b9542bc7a4f2b767b2c87f.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/92dd3953e4b9542bc7a4f2b767b2c87f.svg#Arial W02 Bold")format("svg");
+    font-weight:normal;
+    font-style:normal;
+    font-display:swap;
 }
